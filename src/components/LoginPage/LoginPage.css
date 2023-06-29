@@ -1,0 +1,56 @@
+body {
+  background-color: #fafafa;
+}
+.main_loginpage {
+  display: flex;
+  margin: 20px;
+}
+.left_mob_image {
+  width: 350px;
+}
+.logo_loginpage {
+  width: 120px;
+  margin: 20px;
+}
+.rightcomponent_loginpage {
+  width: 350px;
+  height: 380px;
+  border: 1px solid grey;
+  margin-top: 20px;
+  text-align: center;
+  background-color: white;
+}
+
+.inp {
+  width: 250px;
+  height: 30px;
+  margin: 5px 10px 5px 10px;
+  border: 1px solid grey;
+  background-color: #fafafa;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+.btn {
+  width: 265px;
+  height: 40px;
+  margin-top: 10px;
+  font-weight: bold;
+  border: 1px solid #0385f6;
+  border-radius: 5px;
+  background-color: #0385f6;
+  color: white;
+}
+.or_container{
+    display: flex;
+}
+.or {
+  margin: 0px 10px;
+  font-weight: bold;
+  color: #8e8e8e;
+}
+.or_divider{
+    margin-top: 10px;
+    width: 90px;
+    height: 0px;
+    border: 1px solid grey; 
+}
